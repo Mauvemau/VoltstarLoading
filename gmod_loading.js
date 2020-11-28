@@ -1,7 +1,7 @@
 
-var _backgroundimage = "https://i.imgur.com/pHI9YL8.jpg";
+var _backgroundimage = "https://i.imgur.com/elutwop.jpg";
 var _servername = "Voltstar Cinema";
-var _mapname = "Lodaing...";
+var _mapname = "Loading...";
 var _steamid = "";
 
 function Update() {
